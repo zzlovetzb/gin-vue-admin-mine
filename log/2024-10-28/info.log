@@ -1,0 +1,12 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:13:13.780	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/gorm.go:75	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:13:13.782	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:13:14.906	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:107	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:13:14.906	[34minfo[0m	/home/zhgl/gin-vue-admin/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:58:30.698	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/gorm.go:75	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:58:30.718	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:58:31.212	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:107	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 09:58:31.212	[34minfo[0m	/home/zhgl/gin-vue-admin/server/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 10:40:30.589	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/gorm.go:75	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 10:40:30.591	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 10:40:30.608	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:107	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-28 10:40:30.627	[34minfo[0m	/home/zhgl/gin-vue-admin/server/core/server.go:39	server run success on 	{"address": ":8888"}

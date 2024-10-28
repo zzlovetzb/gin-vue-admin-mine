@@ -1,0 +1,1 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-09-24 09:39:59.516	[31merror[0m	/home/zhgl/gin-vue-admin/server/core/server.go:55	accept tcp [::]:8888: use of closed network connection

@@ -1,0 +1,3 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-09-24 09:39:59.488	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2024-09-24 09:39:59.493	[34minfo[0m	/home/zhgl/gin-vue-admin/server/initialize/router.go:107	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-09-24 09:39:59.494	[34minfo[0m	/home/zhgl/gin-vue-admin/server/core/server.go:39	server run success on 	{"address": ":8888"}
